@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base", "Base\Base.csproj", "{17092B43-911B-4C7A-8601-082E6A7301FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek2", "Ornek2\Ornek2.csproj", "{B26BF125-7E78-4CA6-899A-8ED4BE623D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17092B43-911B-4C7A-8601-082E6A7301FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17092B43-911B-4C7A-8601-082E6A7301FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17092B43-911B-4C7A-8601-082E6A7301FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17092B43-911B-4C7A-8601-082E6A7301FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B26BF125-7E78-4CA6-899A-8ED4BE623D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26BF125-7E78-4CA6-899A-8ED4BE623D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26BF125-7E78-4CA6-899A-8ED4BE623D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26BF125-7E78-4CA6-899A-8ED4BE623D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {499A3CFF-9CE7-407B-A5C0-5C985FE5658B}
+	EndGlobalSection
+EndGlobal
